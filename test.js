@@ -8,6 +8,6 @@ function addTwoNumber(a , b){
 	else
 		console.log("OPSS! THIS NUMBER ARE NOTE NUMBERS")
 }
-console.log("hello world !")
+console.log("hello world h!")
 addTwoNumber(3,5);
 
